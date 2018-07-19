@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!--
  Copyright © 2010 - 2013 Apama Ltd.
  Copyright © 2013 - 2018 Software AG, Darmstadt, Germany and/or its licensors
@@ -17,7 +18,7 @@
    limitations under the License.                                                            
 -->
 
-<?xml version="1.0"?>
+
 <project name="Build" default="buildWM" basedir=".">
         
         <property name="abeHome" value="${SAGHome}/common/AssetBuildEnvironment"/>
